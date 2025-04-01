@@ -65,6 +65,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-##**Blog Management System with Livewire and Filament Admin Panel**
+Blog Management System with Livewire and Filament Admin Panel**
 
 This **Blog Management System** is a dynamic web application built using **Laravel**, **Livewire**, and the **Filament Admin Panel**. It allows for easy management of blog posts through a user-friendly admin interface. The admin can create, update, and delete posts, while **Livewire** ensures real-time updates without full-page reloads. The application features secure user authentication, a responsive layout, and dynamic content management, all built with modern technologies like **Tailwind CSS** and **Alpine.js**. The system provides an interactive platform for both users and admins to engage with and manage blog content efficiently.
